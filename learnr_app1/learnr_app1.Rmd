@@ -1,0 +1,32 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: test1.html
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Topic 1
+
+### Exercise 
+
+*Here's a simple exercise with an empty code chunk provided for entering the answer.*
+
+Write the R code required to add two plus two:
+
+```{r exercise1, exercise=TRUE}
+# What is one plus one?
+
+```
+
+```{r exercise1-solution}
+1+1
+```
+
+<div data-iframe-height></div>

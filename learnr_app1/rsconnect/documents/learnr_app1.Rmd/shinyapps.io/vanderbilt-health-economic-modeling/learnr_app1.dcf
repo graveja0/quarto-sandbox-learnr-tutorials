@@ -1,0 +1,13 @@
+name: learnr_app1
+title: learnr_app1
+username:
+account: vanderbilt-health-economic-modeling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6328859
+bundleId: 5920619
+url: https://vanderbilt-health-economic-modeling.shinyapps.io/learnr_app1/
+when: 1652905580.91008
+lastSyncTime: 1652905580.91009
+asMultiple: FALSE
+asStatic: FALSE
